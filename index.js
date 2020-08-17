@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
   document.getElementById('current-year').textContent = new Date().getFullYear();
 
   var topMenu = $('.custom-navbar');
